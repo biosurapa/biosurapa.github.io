@@ -1,0 +1,9 @@
+.letter {
+    color:blueviolet;
+}
+
+.letter:hover{
+    color:crimson;
+    background-color: cyan;
+    width: 100px;
+}
